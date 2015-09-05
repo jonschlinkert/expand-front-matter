@@ -1,6 +1,6 @@
 # expand-front-matter [![NPM version](https://badge.fury.io/js/expand-front-matter.svg)](http://badge.fury.io/js/expand-front-matter)
 
-> Process config templates in front matter. Can be used with verb and assemble v0.6.0
+> Middleware for processing config templates in front matter. Can be used with verb, assemble v0.6.0, or any application based on jonschlinkert/template.
 
 ## Install
 
