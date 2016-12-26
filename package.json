@@ -1,7 +1,7 @@
 {
   "name": "expand-front-matter",
   "description": "Middleware for processing config templates in front matter. Can be used with verb, assemble v0.6.0 and greater, or any application based on jonschlinkert/templates.",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/jonschlinkert/expand-front-matter",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/expand-front-matter",
