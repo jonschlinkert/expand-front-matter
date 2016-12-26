@@ -34,15 +34,17 @@
   },
   "keywords": [
     "expand",
+    "front",
+    "matter",
     "process"
   ],
   "verb": {
     "related": {
       "list": [
         "assemble",
-        "verb",
+        "expand",
         "template",
-        "expand"
+        "verb"
       ]
     }
   }
